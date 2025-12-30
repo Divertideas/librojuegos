@@ -122,3 +122,7 @@ footer .container, .footer .container, .site-footer .container, footer{
 
 /* v6 safety: hide legacy meta cards */
 .meta{display:none!important}
+
+.meta{display:none!important}
+
+footer .container{flex-wrap:wrap}
